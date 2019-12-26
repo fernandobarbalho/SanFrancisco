@@ -79,9 +79,60 @@ Column
 [<img src="https://media.giphy.com/media/VIWySKSiraIZLESaZk/giphy.gif">](https://github.com/TesouroNacional/API_Grandes_Numeros/blob/master/API_Grandes_Numeros_STN.R)
 
 
-Column
+Column {data-height=100}
 -----------------------------------------------------------------------
 
 ### Teeling a story with D3
+
 [<img src="https://media.giphy.com/media/Lncl1CveFEf7N9tusC/giphy.gif">](https://tchiluanda.github.io/cronicas-fiscais/obrig-discr/)
 
+Team
+=====================================  
+
+Column
+-----------------------------------------------------------------------
+
+### About the team
+We are the Technical Group for Strategic Communication and Data Analysis of the Brazilian National Treasury Secretariat.
+
+<img src=".\img\GitHub-Mark.png" style = "width: 1em;">
+<a href="https://github.com/tchiluanda">github.com/tchiluanda</a>
+
+<img src=".\img\medium_icon.png" style = "width: 1em;">
+<a target="blank" href="https://medium.com/tchiluanda">medium.com/tchiluanda</a>
+
+*** 
+
+<h4>Fernando Almeida Barbalho</h4>
+<p>Data Scientist</p>
+<img src=".\img\telegram_icon.svg" style = "width: 1em;">
+<a target="blank" href="https://t.me/FBarbalho">@fbarbalho</a>
+<br/>
+<img src=".\img\twitterlogo.png" style = "width: 1em;">
+<a target="blank" href="https://twitter.com/barbalhofernand">@barbalhofernand</a>
+<h4>Jordão Mota Gonçalves</h4>
+<p>Communication Specialist</p>
+<img src=".\img\telegram_icon.svg" style = "width: 1em;">
+<a target="blank" href="https://t.me/jordaomota">@jordaomota</a>
+<br/>
+<img src=".\img\twitterlogo.png" style = "width: 1em;">
+<a target="blank" href="https://twitter.com/jordao_mota">@jordao_mota</a>
+<h4>Lucas Gurgel Leite</h4>
+<p>Technical Specialist</p>
+<img src=".\img\telegram_icon.svg" style = "width: 1em;">
+<a target="blank" href="https://t.me/653473718">@653473718</a>
+<h4>Tiago Maranhão Barreto Pereira</h4>
+<p>Technical Leader</p>
+<img src=".\img\telegram_icon.svg" style = "width: 1em;">
+<a target="blank" href="https://t.me/tiagombp">@tiagombp</a>
+<br/>
+<img src=".\img\twitterlogo.png" style = "width: 1em;">
+<a target="blank" href="https://twitter.com/tiagombp">@tiagombp</a>
+
+
+Column
+-----------------------------------------------------------------------
+### A picture
+The faces of those who enjoy work with **R**
+
+<img src=".\img\equipe-stn.jpg" style = "width: 1em;">
